@@ -1,6 +1,6 @@
 // Example stimuli lists
 var fillers = ['F1','F2','F3','F4','F5','F6','F7','F8','F9','F10','F11','F12','F13','F14','F15','F16','F17','F18','F19','F20']
-var control = ['Ctrl1,'Ctrl2','Ctrl3','Ctrl4',Ctrl5','Ctrl6','Ctrl7']
+var control = ['Ctrl1','Ctrl2','Ctrl3','Ctrl4','Ctrl5','Ctrl6','Ctrl7']
 var experimental = ['Expt1','Expt2','Expt3','Expt4','Expt5','Expt6','Expt7]
 
 // Randomly set the condition
